@@ -8,4 +8,4 @@ Los controles son usando las flechas del teclado:
 *  ⬆ cambiar movimiento hacia arriba.
 *  ⬅ cambiar movimiento hacia izquierda.
 *  ⬇ cambiar movimiento hacia abajo.
-*  ⮕ cambiar movimiento hacia derecha.
+*  ➡️ cambiar movimiento hacia derecha.
